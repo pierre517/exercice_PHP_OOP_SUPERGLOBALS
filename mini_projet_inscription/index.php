@@ -1,0 +1,1 @@
+<a href="inscription.php?event=phpday">inscription au php day cliquez ici</a>
